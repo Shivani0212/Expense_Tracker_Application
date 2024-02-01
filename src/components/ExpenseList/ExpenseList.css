@@ -1,0 +1,36 @@
+/* ExpenseList.css */
+
+.expense-list-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .expense-list-container h2 {
+    color: #333;
+  }
+  
+  .expense-list-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .expense-list-container li {
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .expense-list-container li:last-child {
+    border-bottom: none; /* Remove border for the last item */
+  }
+  
+  .expense-list-container li span {
+    flex: 1;
+  }
+  
+  /* Add more styles as needed based on your design */
+  

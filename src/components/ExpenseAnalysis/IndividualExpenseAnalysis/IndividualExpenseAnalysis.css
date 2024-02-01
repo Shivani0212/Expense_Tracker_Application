@@ -1,0 +1,16 @@
+/* ExpenseAnalysis/IndividualExpenseAnalysis.css */
+
+.expense-analysis-container {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .expense-analysis-container h2 {
+    color: #333;
+  }
+  
+  /* Add more styles as needed based on your design */
+  
